@@ -1,0 +1,55 @@
+C:\dot net one AM\DrawPoker\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\dot net one AM\DrawPoker\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\dot net one AM\DrawPoker\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\dot net one AM\DrawPoker\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\dot net one AM\DrawPoker\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\dot net one AM\DrawPoker\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\dot net one AM\DrawPoker\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\dot net one AM\DrawPoker\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\dot net one AM\DrawPoker\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\dot net one AM\DrawPoker\PresentationLayer\obj\Debug\PresentationLayer.frmMain.resources
+C:\dot net one AM\DrawPoker\PresentationLayer\bin\Debug\DataObjects.dll
+C:\dot net one AM\DrawPoker\PresentationLayer\bin\Debug\LogicLayer.dll
+C:\dot net one AM\DrawPoker\PresentationLayer\bin\Debug\DataObjects.pdb
+C:\dot net one AM\DrawPoker\PresentationLayer\bin\Debug\LogicLayer.pdb
+C:\dot net one AM\DrawPoker\PresentationLayer\obj\Debug\PresentationLayer.CardResources.resources
+C:\dot net one AM\DrawPoker\PresentationLayer\bin\Debug\DataAccessLayer.dll
+C:\dot net one AM\DrawPoker\PresentationLayer\bin\Debug\DataAccessLayer.pdb
+C:\dot net one AM\DrawPoker\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\grimj\OneDrive\Desktop\DrawPoker2\DrawPoker\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\grimj\OneDrive\Desktop\DrawPoker2\DrawPoker\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\grimj\OneDrive\Desktop\DrawPoker2\DrawPoker\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\grimj\OneDrive\Desktop\DrawPoker2\DrawPoker\PresentationLayer\bin\Debug\DataObjects.dll
+C:\Users\grimj\OneDrive\Desktop\DrawPoker2\DrawPoker\PresentationLayer\bin\Debug\LogicLayer.dll
+C:\Users\grimj\OneDrive\Desktop\DrawPoker2\DrawPoker\PresentationLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\grimj\OneDrive\Desktop\DrawPoker2\DrawPoker\PresentationLayer\bin\Debug\DataObjects.pdb
+C:\Users\grimj\OneDrive\Desktop\DrawPoker2\DrawPoker\PresentationLayer\bin\Debug\LogicLayer.pdb
+C:\Users\grimj\OneDrive\Desktop\DrawPoker2\DrawPoker\PresentationLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\grimj\OneDrive\Desktop\DrawPoker2\DrawPoker\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\grimj\OneDrive\Desktop\DrawPoker2\DrawPoker\PresentationLayer\obj\Debug\PresentationLayer.CardResources.resources
+C:\Users\grimj\OneDrive\Desktop\DrawPoker2\DrawPoker\PresentationLayer\obj\Debug\PresentationLayer.frmMain.resources
+C:\Users\grimj\OneDrive\Desktop\DrawPoker2\DrawPoker\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\grimj\OneDrive\Desktop\DrawPoker2\DrawPoker\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\grimj\OneDrive\Desktop\DrawPoker2\DrawPoker\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\grimj\OneDrive\Desktop\DrawPoker2\DrawPoker\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\grimj\OneDrive\Desktop\DrawPoker2\DrawPoker\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\grimj\OneDrive\Desktop\DrawPoker2\DrawPoker\PresentationLayer\obj\Debug\PresentationLayer.pdb
+C:\Users\grimj\OneDrive\Desktop\Sort_later\C sharp projects\DrawPoker2\DrawPoker\PresentationLayer\bin\Debug\PresentationLayer.exe.config
+C:\Users\grimj\OneDrive\Desktop\Sort_later\C sharp projects\DrawPoker2\DrawPoker\PresentationLayer\bin\Debug\PresentationLayer.exe
+C:\Users\grimj\OneDrive\Desktop\Sort_later\C sharp projects\DrawPoker2\DrawPoker\PresentationLayer\bin\Debug\PresentationLayer.pdb
+C:\Users\grimj\OneDrive\Desktop\Sort_later\C sharp projects\DrawPoker2\DrawPoker\PresentationLayer\bin\Debug\DataObjects.dll
+C:\Users\grimj\OneDrive\Desktop\Sort_later\C sharp projects\DrawPoker2\DrawPoker\PresentationLayer\bin\Debug\LogicLayer.dll
+C:\Users\grimj\OneDrive\Desktop\Sort_later\C sharp projects\DrawPoker2\DrawPoker\PresentationLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\grimj\OneDrive\Desktop\Sort_later\C sharp projects\DrawPoker2\DrawPoker\PresentationLayer\bin\Debug\DataObjects.pdb
+C:\Users\grimj\OneDrive\Desktop\Sort_later\C sharp projects\DrawPoker2\DrawPoker\PresentationLayer\bin\Debug\LogicLayer.pdb
+C:\Users\grimj\OneDrive\Desktop\Sort_later\C sharp projects\DrawPoker2\DrawPoker\PresentationLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\grimj\OneDrive\Desktop\Sort_later\C sharp projects\DrawPoker2\DrawPoker\PresentationLayer\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\grimj\OneDrive\Desktop\Sort_later\C sharp projects\DrawPoker2\DrawPoker\PresentationLayer\obj\Debug\PresentationLayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\grimj\OneDrive\Desktop\Sort_later\C sharp projects\DrawPoker2\DrawPoker\PresentationLayer\obj\Debug\PresentationLayer.CardResources.resources
+C:\Users\grimj\OneDrive\Desktop\Sort_later\C sharp projects\DrawPoker2\DrawPoker\PresentationLayer\obj\Debug\PresentationLayer.frmMain.resources
+C:\Users\grimj\OneDrive\Desktop\Sort_later\C sharp projects\DrawPoker2\DrawPoker\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+C:\Users\grimj\OneDrive\Desktop\Sort_later\C sharp projects\DrawPoker2\DrawPoker\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\grimj\OneDrive\Desktop\Sort_later\C sharp projects\DrawPoker2\DrawPoker\PresentationLayer\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\grimj\OneDrive\Desktop\Sort_later\C sharp projects\DrawPoker2\DrawPoker\PresentationLayer\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\grimj\OneDrive\Desktop\Sort_later\C sharp projects\DrawPoker2\DrawPoker\PresentationLayer\obj\Debug\PresentationLayer.exe
+C:\Users\grimj\OneDrive\Desktop\Sort_later\C sharp projects\DrawPoker2\DrawPoker\PresentationLayer\obj\Debug\PresentationLayer.pdb
