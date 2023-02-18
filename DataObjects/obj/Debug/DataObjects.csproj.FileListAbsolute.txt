@@ -1,0 +1,18 @@
+C:\dot net one AM\DrawPoker\DataObjects\bin\Debug\DataObjects.dll
+C:\dot net one AM\DrawPoker\DataObjects\bin\Debug\DataObjects.pdb
+C:\dot net one AM\DrawPoker\DataObjects\obj\Debug\DataObjects.csproj.CoreCompileInputs.cache
+C:\dot net one AM\DrawPoker\DataObjects\obj\Debug\DataObjects.dll
+C:\dot net one AM\DrawPoker\DataObjects\obj\Debug\DataObjects.pdb
+C:\dot net one AM\DrawPoker\DataObjects\obj\Debug\DataObjects.csproj.AssemblyReference.cache
+C:\Users\grimj\OneDrive\Desktop\DrawPoker2\DrawPoker\DataObjects\bin\Debug\DataObjects.dll
+C:\Users\grimj\OneDrive\Desktop\DrawPoker2\DrawPoker\DataObjects\bin\Debug\DataObjects.pdb
+C:\Users\grimj\OneDrive\Desktop\DrawPoker2\DrawPoker\DataObjects\obj\Debug\DataObjects.csproj.AssemblyReference.cache
+C:\Users\grimj\OneDrive\Desktop\DrawPoker2\DrawPoker\DataObjects\obj\Debug\DataObjects.csproj.CoreCompileInputs.cache
+C:\Users\grimj\OneDrive\Desktop\DrawPoker2\DrawPoker\DataObjects\obj\Debug\DataObjects.dll
+C:\Users\grimj\OneDrive\Desktop\DrawPoker2\DrawPoker\DataObjects\obj\Debug\DataObjects.pdb
+C:\Users\grimj\OneDrive\Desktop\Sort_later\C sharp projects\DrawPoker2\DrawPoker\DataObjects\bin\Debug\DataObjects.dll
+C:\Users\grimj\OneDrive\Desktop\Sort_later\C sharp projects\DrawPoker2\DrawPoker\DataObjects\bin\Debug\DataObjects.pdb
+C:\Users\grimj\OneDrive\Desktop\Sort_later\C sharp projects\DrawPoker2\DrawPoker\DataObjects\obj\Debug\DataObjects.csproj.AssemblyReference.cache
+C:\Users\grimj\OneDrive\Desktop\Sort_later\C sharp projects\DrawPoker2\DrawPoker\DataObjects\obj\Debug\DataObjects.csproj.CoreCompileInputs.cache
+C:\Users\grimj\OneDrive\Desktop\Sort_later\C sharp projects\DrawPoker2\DrawPoker\DataObjects\obj\Debug\DataObjects.dll
+C:\Users\grimj\OneDrive\Desktop\Sort_later\C sharp projects\DrawPoker2\DrawPoker\DataObjects\obj\Debug\DataObjects.pdb
